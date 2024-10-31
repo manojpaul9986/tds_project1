@@ -1,0 +1,3 @@
+- We scraped GitHub user data from Chicago with over 100 followers, using Python and the GitHub API to capture user and repository details, then processed and saved them in CSV files.
+- The most surprising finding was that Python repositories had the highest average stars, indicating strong interest in this language.
+- Developers could benefit from focusing on Python for project visibility, given its popularity and engagement among GitHub users in Chicago.
